@@ -14,3 +14,9 @@ Pre require: Node V8 and Yarn
     yarn install
     yarn run start
     
+![Screen Shot](./screenshot1.png)
+![Screen Shot](./screenshot2.png)
+![Screen Shot](./screenshot3.png)
+![Screen Shot](./screenshot4.png)
+![Screen Shot](./screenshot5.png)
+![Screen Shot](./screenshot6.png)
